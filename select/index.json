@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "アスファルト",
+  "base_artist": "Lot",
+  "createdAt": "2025-12-01T06:32:05.744414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アスファルト・レディ",
+      "artist": "S. Kiyotaka & Omega Tribe",
+      "has_synced": true,
+      "path": "select/01_アスファルト・レディ_S._Kiyotaka_&_Omega_Tribe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アスファルト・レディ",
+      "artist": "S. Kiyotaka",
+      "has_synced": true,
+      "path": "select/02_アスファルト・レディ_S._Kiyotaka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アスファルト・レディ",
+      "artist": "Sugiyama Kiyotaka & Omega Tribe",
+      "has_synced": true,
+      "path": "select/03_アスファルト・レディ_Sugiyama_Kiyotaka_&_Omega_Tribe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨上がり アスファルト 新しい靴で",
+      "artist": "GO!GO!7188",
+      "has_synced": false,
+      "path": "select/04_雨上がり_アスファルト_新しい靴で_GO!GO!7188.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アスファルト・レディ",
+      "artist": "杉山清貴&オメガトライブ",
+      "has_synced": false,
+      "path": "select/05_アスファルト・レディ_杉山清貴&オメガトライブ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アスファルトの涙",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/pl_01_アスファルトの涙_NMB48.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ASPHALT LADY",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/pl_02_ASPHALT_LADY_NMB48.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アスファルトまでの涙",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/pl_03_アスファルトまでの涙_NMB48.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アスファルトの地平線",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/pl_04_アスファルトの地平線_NMB48.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アスファルトのAngel",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/pl_05_アスファルトのAngel_NMB48.txt"
+    }
+  ]
+}
